@@ -10,4 +10,6 @@
 
 
 
-# 4. Homer has decided to track both his donut intake and his cookie intake. Write a method called new_diet that takes in two arguments - number of donuts and number of cookies. If he eats 5 donuts OR 5 cookies it should tell him to slow down. If he eats 5 donuts AND 5 cookies it should tell him to get back on his diet.
+# 4. Homer has decided to track both his donut intake and his cookie intake. Write a method called new_diet that takes in two arguments - number of donuts and number of cookies. As long as he eats zero donuts OR zero cookies this method should return "Good job!". If he eats 1 or more donuts AND 1 or more cookies it should tell him to get back on his diet.
+
+
