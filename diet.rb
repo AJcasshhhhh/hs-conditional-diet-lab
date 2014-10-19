@@ -9,7 +9,7 @@
 # 3. We've decided to give Homer a little more control over his diet. Write a method called some_donuts that takes in two arguments - the number of donuts he has eaten and a maximum donut intake. This method should work similar to the method you wrote in #2, but it should tell Homer to slow down when he has eaten greater than or equal to half of his maximum donut intake.
 
 
-
+# BONUS
 # 4. Homer has decided to track both his donut intake and his cookie intake. Write a method called new_diet that takes in two arguments - number of donuts and number of cookies. As long as he eats zero donuts OR zero cookies this method should return "Good job!". If he eats 1 or more donuts AND 1 or more cookies it should tell him to get back on his diet.
 
 
